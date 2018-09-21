@@ -1,1 +1,1 @@
-worker: python blackcat.py
+worker: python video.py
